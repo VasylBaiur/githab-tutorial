@@ -1,5 +1,5 @@
 .text>span {
-    text-decoration: line-through;
+    text-decoration: overline;
 }
 
 .link {
